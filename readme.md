@@ -1,7 +1,7 @@
 
 # Led Strip project
 
-A simple Arduino project to control a led strip
+A simple Arduino project to control a led strip :smile:
 
 ## Potentiometer Controller
 
