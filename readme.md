@@ -3,20 +3,39 @@
 
 A simple Arduino project to control a led strip
 
+## Potentiometer Controller
+
+**Constructor (int pinNumber)**
+
+### Usage
+
+Turn to get the intensity value
+
+### Methods
+
+**getValue** 
+
+Get the actual value
+
+**setRange (int, int)**
+
+Chosse a range to get the value from.
+Ex: Between 1 and 5, or 0 and 100
+
 ## Button Controller
 
-**Constructor: pinNumber**
+**Constructor (int pinNumber)**
 
 ### Usage
 
 * Long press (1s): On / Off
 * Short Press: Switch mode
 
-### methods
+### Methods
 
 **setModes (int)**
 
-A method to register the number of possible nums
+A method to register the number of possible modes
 
 **setMode (int)**
 
