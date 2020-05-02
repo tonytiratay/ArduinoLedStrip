@@ -15,12 +15,12 @@ Turn to get the intensity value
 
 **getValue** 
 
-Get the actual value
+> Get the actual value
 
 **setRange (int, int)**
 
-Chosse a range to get the value from.
-Ex: Between 1 and 5, or 0 and 100
+> Chosse a range to get the value from.
+> Ex: Between 1 and 5, or 0 and 100
 
 ## Button Controller
 
@@ -35,12 +35,12 @@ Ex: Between 1 and 5, or 0 and 100
 
 **setModes (int)**
 
-A method to register the number of possible modes
+> A method to register the number of possible modes
 
 **setMode (int)**
 
-A method to set the actual mode
+> A method to set the actual mode
 
 **getMode**
 
-A method to get the actual mode
+> A method to get the actual mode
