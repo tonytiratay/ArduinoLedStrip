@@ -3,6 +3,8 @@
 
 A simple Arduino project to control a led strip :smile:
 
+See https://github.com/tonytiratay/ArduinoHomeLibs for needed libraries
+
 ## Potentiometer Controller
 
 **Constructor (int pinNumber)**
